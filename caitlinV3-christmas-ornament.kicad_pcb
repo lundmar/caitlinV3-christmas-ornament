@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 38)
+    (drawings 37)
     (tracks 20)
     (zones 0)
     (modules 35)
@@ -1482,9 +1482,6 @@
     )
   )
 
-  (gr_text "This work is licensed under a Creative Commons Attribution 4.0 International License." (at 231.14 176.53) (layer F.Cu)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
   (gr_text "CaitlinV3\nX-MAS TREE\n2019" (at 152.4 93.98) (layer F.SilkS) (tstamp 5DF30BBF)
     (effects (font (size 1 1) (thickness 0.15)))
   )
